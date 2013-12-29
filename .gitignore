@@ -1,7 +1,5 @@
 # Created by http://gitignore.io
 
-#!! ERROR: objec is undefined. Use list command to see defined gitignore types !!#
-
 ### Objective-C ###
 # Xcode
 .DS_Store
@@ -20,3 +18,9 @@ profile
 DerivedData
 .idea/
 *.hmap
+
+### Xcode ###
+build
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
