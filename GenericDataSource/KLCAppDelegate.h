@@ -1,5 +1,5 @@
 //
-//  KLCTableViewController.h
+//  KLCAppDelegate.h
 //  GenericDataSource
 //
 //  Created by Kevin CATHALY on 29/12/2013.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KLCTableViewController : UIViewController
+@interface KLCAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
 
 @end

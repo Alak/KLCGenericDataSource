@@ -9,6 +9,6 @@
 #ifndef _KLCGenericDataSource_h
 #define _KLCGenericDataSource_h
 
-
+#import "TableViewArrayDataSource.h"
 
 #endif
