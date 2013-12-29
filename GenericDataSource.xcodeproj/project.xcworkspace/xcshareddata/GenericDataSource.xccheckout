@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6008BD95-2734-4856-A30E-BB11195C4EB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GenericDataSource</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64FEDD78-839D-4EF7-B331-BFEE692CAE28</key>
+		<string>https://github.com/Alak/KLCGenericDataSource.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GenericDataSource/GenericDataSource.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64FEDD78-839D-4EF7-B331-BFEE692CAE28</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Alak/KLCGenericDataSource.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64FEDD78-839D-4EF7-B331-BFEE692CAE28</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64FEDD78-839D-4EF7-B331-BFEE692CAE28</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KLCGenericDataSource</string>
+		</dict>
+	</array>
+</dict>
+</plist>
